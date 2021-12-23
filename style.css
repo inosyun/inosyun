@@ -1,1 +1,93 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+body header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body header .left {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+body header .left svg {
+  width: 134px;
+  height: 48px;
+}
+
+body header .left p {
+  font-size: 14px;
+  margin-left: 20px;
+}
+
+body header .right {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0 0 auto;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+body header .right svg {
+  width: 24px;
+  height: 24px;
+  margin-left: 20px;
+}
+
+body header .right img {
+  width: 32px;
+  height: 32px;
+  margin-left: 20px;
+}
+
+body main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body main .top .span {
+  color: 0;
+}
+
+body footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body footer .left {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+body footer .left svg {
+  width: 24px;
+  height: 24px;
+  margin-left: 20px;
+}
+
+body footer .right {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0 0 0 auto;
+}
+
+body footer .right p {
+  font-size: 12px;
+  margin-left: 40px;
+}
+/*# sourceMappingURL=style.css.map */
